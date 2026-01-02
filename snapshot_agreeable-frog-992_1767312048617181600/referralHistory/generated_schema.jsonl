@@ -1,0 +1,1 @@
+"{\"_creationTime\": normalfloat64, \"_id\": id<10005>, \"createdAt\": normalfloat64, \"pointsAwarded\": normalfloat64, \"referralMethod\": \"link\", \"referralType\": \"USER_REFERRAL\", \"referredId\": field_name, \"referrerId\": field_name, \"status\": \"active\"}"

@@ -1,0 +1,16 @@
+{"name":"comments","id":10001}
+{"name":"featureFlags","id":10002}
+{"name":"pointsHistory","id":10003}
+{"name":"posts","id":10004}
+{"name":"referralHistory","id":10005}
+{"name":"referralStats","id":10006}
+{"name":"users","id":10007}
+{"name":"waitlist","id":10008}
+{"name":"levelThresholds","id":10009}
+{"name":"miniGames","id":10010}
+{"name":"pointsConfig","id":10011}
+{"name":"userMiniGameProgress","id":10012}
+{"name":"wakeUpPings","id":10013}
+{"name":"blogTags","id":10014}
+{"name":"services","id":10015}
+{"name":"contact_submissions","id":10016}
